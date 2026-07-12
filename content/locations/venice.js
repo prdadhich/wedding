@@ -11,7 +11,7 @@ export default {
     introImage: "https://ik.imagekit.io/prdadhich/Images/PhotoGraphyPortfolio/PSX_20230926_163119_9_SHcT50A.jpg", // placeholder
 
     description:
-        "An elegant crossroads of Italian, Austrian and Slovenian cultures, Trieste offers a sophisticated and entirely unique backdrop for documentary photography.",
+        "Venice is a city of canals, bridges and quiet alleyways where every turn reveals a new perspective. It offers an unforgettable setting for natural, documentary-style photography.",
 
     tags: [
         "venice",
@@ -58,7 +58,7 @@ export default {
         {
             type: "overview",
             content:
-                "Venice is a city unlike any other in Italy. With its canals, gondolas, and historic architecture, it feels elegant, quiet, and deeply romantic. Whether we are walking through Piazza Unità d'Italia at sunrise or exploring the gardens of Miramare Castle, the city offers a sophisticated canvas for creating natural, timeless photographs of your journey."
+                "Venice is best discovered without rushing. Beyond the famous landmarks, the city's narrow streets, hidden canals and quiet bridges create endless opportunities for genuine moments. As we explore together, I'll document your experience naturally, creating photographs that capture both the atmosphere of Venice and the memories you make here."
         },
 
         {

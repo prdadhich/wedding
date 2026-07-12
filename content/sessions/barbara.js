@@ -8,7 +8,8 @@ export default {
   heroImage: "https://ik.imagekit.io/prdadhich/Images/Barbara/IMG_5375_OUbzvWAzim.jpg",
   heroPosition: "center 50%",
   coverImage: "https://ik.imagekit.io/prdadhich/Images/Barbara/IMG_5698_qkRgKZ926b.jpg",
-  description: "A day shared with family, friends, and the quiet moments in between.",
+  description:
+    "A documentary wedding story celebrating genuine moments, quiet emotions and the people who made Barbara's day unforgettable.",
   date: "May 2026",
   featured: true,
   sections: [

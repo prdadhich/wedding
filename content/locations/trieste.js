@@ -11,7 +11,7 @@ export default {
   introImage: "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_4733_WFchYE_q7.jpg", // placeholder
 
   description:
-    "An elegant crossroads of Italian, Austrian and Slovenian cultures, Trieste offers a sophisticated and entirely unique backdrop for documentary photography.",
+    "With its grand architecture, elegant waterfront and quiet streets, Trieste offers a unique setting for relaxed, documentary-style photography that captures both the city and your experience.",
 
   tags: [
     "trieste",
@@ -58,7 +58,7 @@ export default {
     {
       type: "overview",
       content:
-        "Trieste is a city unlike any other in Italy. With its grand Austro-Hungarian architecture, historic literary cafés, and expansive waterfront, it feels elegant, quiet, and deeply romantic. Whether we are walking through Piazza Unità d'Italia at sunrise or exploring the gardens of Miramare Castle, the city offers a sophisticated canvas for creating natural, timeless photographs of your journey."
+        "Trieste rewards those who slow down. From the grandeur of Piazza Unità d'Italia to the peaceful gardens of Miramare Castle and the charm of Canal Grande, every walk reveals another side of the city. Rather than rushing between landmarks, we'll explore at a relaxed pace while I document your experience naturally, creating photographs that feel authentic and timeless."
     },
 
     {

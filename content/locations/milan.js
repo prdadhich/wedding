@@ -23,8 +23,8 @@ export default {
     ],
 
     coordinates: {
-        latitude: 45.6495,
-        longitude: 13.7768
+        latitude: 45.4642,
+        longitude: 9.1900
     },
 
     quickFacts: [

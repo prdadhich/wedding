@@ -49,6 +49,12 @@ function initMobileNav() {
     toggleBtn.setAttribute('aria-expanded', !isExpanded);
     toggleBtn.classList.toggle('active');
     mainNav.classList.toggle('active');
+    
+    // Toggle class on header to disable difference blend mode
+    const header = document.querySelector('.site-header');
+    if (header) {
+      header.classList.toggle('menu-open');
+    }
 
     // Prevent background scrolling when menu is open
     document.body.style.overflow = !isExpanded ? 'hidden' : 'auto';

@@ -135,7 +135,8 @@ img {
 }
 
 /* When header is overlaying white page background, we want it black */
-.site-header.scrolled {
+.site-header.scrolled,
+.site-header.menu-open {
   background-color: rgba(250, 249, 246, 0.95);
   mix-blend-mode: normal;
   padding: 1.2rem 3rem;

@@ -21,7 +21,11 @@ export default {
             type: "details", items: [
                 { label: "Location", value: "Trieste, Italy" },
                 { label: "Date", value: "March 2026" },
-                { label: "Service", value: "Tourist Photography" }
+                { label: "Service", value: "Tourist Photography" },
+                {
+    label: "Experience",
+    value: "Historic Trieste"
+}
             ]
         },
         { type: "gallery" },

@@ -79,7 +79,7 @@ export default {
 
         {
             type: "cta",
-            title: "Planning a visit to Venice?",
+            title: "Planning a visit to Verona?",
             text:
                 "I'd love to help you capture your time in this beautiful city with photographs that feel natural and authentic.",
             button: "Get in Touch"
@@ -87,14 +87,14 @@ export default {
     ],
 
     seo: {
-        title: "Venice Photography Experiences | Pratyush Dadhich",
+        title: "Verona Photography Experiences | Pratyush Dadhich",
         description:
-            "Photography experiences in Venice, Italy including the historic city center, canals, and gondolas.",
+            "Photography experiences in Verona, Italy including the historic city center, canals, and gondolas.",
         keywords: [
-            "Venice photographer",
-            "Venice photography",
-            "Venice proposal photographer",
-            "Venice photoshoot"
+            "Verona photographer",
+            "Verona photography",
+            "Verona proposal photographer",
+            "Verona photoshoot"
         ]
     }
 };

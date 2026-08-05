@@ -94,5 +94,39 @@ export default [
     services: ["portrait"],
     people: [],
     tags: ["dolomites", "seceda", "candid"]
+  },
+  {
+    id: "seceda-007",
+    src: "https://ik.imagekit.io/prdadhich/Images/Evangeline/IMG_6300_mkg0mWfqa.jpg",
+    title: "",
+    caption: "",
+    alt: "Candid mountain portraits",
+    orientation: "landscape",
+    featured: true,
+    showCaption: false,
+    session: "Evangeline",
+    location: "dolomites",
+    experience: "seceda",
+    services: ["portrait"],
+    people: [],
+    tags: ["dolomites", "seceda", "candid", "family"]
+  },
+  {
+    id: "seceda-007",
+    src: "https://ik.imagekit.io/prdadhich/Images/Evangeline/IMG_6274_FBIQ6xsDN.jpg",
+    title: "",
+    caption: "",
+    alt: "Candid mountain portraits",
+    orientation: "landscape",
+    featured: false,
+    showCaption: false,
+    session: "Evangeline",
+    location: "dolomites",
+    experience: "seceda",
+    services: ["portrait"],
+    people: [],
+    tags: ["dolomites", "seceda", "candid", "family"]
   }
 ];
+
+

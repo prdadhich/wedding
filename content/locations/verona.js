@@ -6,12 +6,12 @@ export default {
     featured: true,
     order: 4,
 
-    coverImage: "https://ik.imagekit.io/prdadhich/Images/abby/IMG_6524_9fGtXa2XB.jpg", // placeholder
-    heroImage: "https://ik.imagekit.io/prdadhich/Images/abby/IMG_6491_WUO1zN9Fej.jpg", // placeholder
-    introImage: "https://ik.imagekit.io/prdadhich/Images/abby/IMG_6461_ASuYpT6cv.jpg", // placeholder
+    coverImage: "https://ik.imagekit.io/prdadhich/Images/abby/IMG_6524_9fGtXa2XB.jpg",
+    heroImage: "https://ik.imagekit.io/prdadhich/Images/abby/IMG_6491_WUO1zN9Fej.jpg",
+    introImage: "https://ik.imagekit.io/prdadhich/Images/abby/IMG_6461_ASuYpT6cv.jpg",
 
     description:
-        "Verona is a timeless city of canals, bridges and quiet alleyways where every turn reveals a new perspective. It offers an unforgettable setting for natural, documentary-style photography.",
+        "Verona is a city of historic streets, elegant architecture and quiet corners, offering a beautiful setting for natural, documentary-style photography. From wandering through the old city to slower moments along the Adige, the city gives couples space to simply enjoy being together while their story unfolds naturally.",
 
     tags: [
         "verona",
@@ -19,18 +19,19 @@ export default {
         "city",
         "proposal",
         "couples",
-        "travel"
+        "travel",
+        "portrait"
     ],
 
     coordinates: {
-        latitude: 45.6495,
-        longitude: 13.7768
+        latitude: 45.4384,
+        longitude: 10.9916
     },
 
     quickFacts: [
         {
             label: "Best Season",
-            value: "All Year"
+            value: "Spring to Autumn"
         },
         {
             label: "Closest Airport",
@@ -38,16 +39,16 @@ export default {
         },
         {
             label: "Perfect For",
-            value: "Couples & Families"
+            value: "Couples & Proposals"
         }
     ],
 
     experienceHighlights: [
-        "Historic cafés and architecture",
-        "Canals",
-        "Gondolas",
-        "Private experiences",
-        "Local recommendations"
+        "Historic city centre",
+        "Adige river and bridges",
+        "Elegant architecture",
+        "Quiet streets and hidden corners",
+        "Relaxed couple experiences"
     ],
 
     galleryQuery: {
@@ -58,7 +59,7 @@ export default {
         {
             type: "overview",
             content:
-                "Venice is best discovered without rushing. Beyond the famous landmarks, the city's narrow streets, hidden canals and quiet bridges create endless opportunities for genuine moments. As we explore together, I'll document your experience naturally, creating photographs that capture both the atmosphere of Venice and the memories you make here."
+                "Verona is best experienced without rushing. Beyond the city's famous landmarks, its historic streets, bridges, squares and quieter corners create plenty of opportunities for genuine moments. Whether you're exploring the city together or simply taking a relaxed walk, I'll document the experience naturally, creating photographs that capture both your connection and the character of Verona."
         },
 
         {
@@ -81,7 +82,7 @@ export default {
             type: "cta",
             title: "Planning a visit to Verona?",
             text:
-                "I'd love to help you capture your time in this beautiful city with photographs that feel natural and authentic.",
+                "I'd love to help you capture your time in Verona with photographs that feel natural, personal and authentic.",
             button: "Get in Touch"
         }
     ],
@@ -89,12 +90,14 @@ export default {
     seo: {
         title: "Verona Photography Experiences | Pratyush Dadhich",
         description:
-            "Photography experiences in Verona, Italy including the historic city center, canals, and gondolas.",
+            "Couple, proposal and travel photography experiences in Verona, Italy, focused on natural moments, historic streets and the character of the city.",
         keywords: [
             "Verona photographer",
             "Verona photography",
             "Verona proposal photographer",
-            "Verona photoshoot"
+            "Verona couple photographer",
+            "Verona photoshoot",
+            "Verona travel photographer"
         ]
     }
 };

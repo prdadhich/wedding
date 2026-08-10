@@ -4,6 +4,7 @@
   "description": "wedding portfolio",
   "main": "main.js",
   "scripts": {
+    "start": "node generate.js && npx serve dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

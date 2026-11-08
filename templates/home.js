@@ -7,7 +7,7 @@ import renderCta from '../renderers/cta.js';
 export default function renderHome({ services, experiences, locations, sessions, resources }) {
   // Construct a pseudo pageData object with featured items for the grid renderers
   const pageData = {
-    relatedSessions: sessions.filter(s => s.featured).slice(0, 6),
+    relatedSessions: sessions.filter(s => s.featured).slice(0, 9),
     relatedExperiences: experiences.filter(e => e.featured).slice(0, 6),
     relatedServices: services.filter(s => s.featured).slice(0, 6),
     relatedLocations: locations.filter(l => l.featured).slice(0, 6),

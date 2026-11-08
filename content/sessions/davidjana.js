@@ -5,9 +5,9 @@ export default {
     location: "dolomites",
     experience: null,
     tags: ["wedding", "lagodibraies", "italy", "documentary"],
-    heroImage: "https://images.pratyushdadhich.com/fukeung/IMG_7911.jpg",
+    heroImage: "https://images.pratyushdadhich.com/davidjana/IMG_7193.jpg",
     heroPosition: "center 50%",
-    coverImage: "https://images.pratyushdadhich.com/fukeung/IMG_7845.jpg",
+    coverImage: "https://images.pratyushdadhich.com/davidjana/IMG_7283.jpg",
     description:
         "A quiet mountain love story, photographed in Lago di Braies. A blend of intimate portraits and unposed moments, keeping the focus on their connection while letting the landscape become part of the story.",
     date: "September 2026",

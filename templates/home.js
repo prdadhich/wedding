@@ -19,7 +19,8 @@ export default function renderHome({ services, experiences, locations, sessions,
     "https://ik.imagekit.io/prdadhich/Images/Barbara/IMG_5619_ofCJt64dmL.jpg", // Final Dance (Landscape) - Guaranteed working
     "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_2727-Enhanced-NR_OuQrEiTuP.jpg", // Milan Duomo (Landscape)
     "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_1716_jiPTkzLae.jpg", // Tre Cime Sunrise (Landscape)
-    "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_4765_R7hY2a7YW.jpg" // Milan Candid (Landscape)
+    "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_4765_R7hY2a7YW.jpg",
+    "https://images.pratyushdadhich.com/fukeung/IMG_7845.jpg" // fukeung
   ];
 
   return `

@@ -5,9 +5,9 @@ export default {
     location: "dolomites",
     experience: null,
     tags: ["wedding", "cadini", "italy", "documentary"],
-    heroImage: "https://images.pratyushdadhich.com/fukeung/IMG_7845.jpg",
+    heroImage: "https://images.pratyushdadhich.com/fukeung/IMG_7911.jpg",
     heroPosition: "center 50%",
-    coverImage: "https://images.pratyushdadhich.com/fukeung/IMG_7911.jpg",
+    coverImage: "https://images.pratyushdadhich.com/fukeung/IMG_7845.jpg",
     description:
         "A quiet mountain love story, photographed among the dramatic peaks of Cadini di Misurina. A blend of intimate portraits and unposed moments, keeping the focus on their connection while letting the landscape become part of the story.",
     date: "September 2026",

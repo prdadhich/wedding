@@ -446,7 +446,38 @@ export default [
         people: [],
         tags: ["dolomites", "cadini", "landscape", "portrait", "friends"]
     },
-
+    {
+        id: "cadini-029",
+        src: "https://images.pratyushdadhich.com/fukeung/IMG_7870.jpg",
+        title: "",
+        caption: "",
+        alt: "Cadini",
+        orientation: "portrait",
+        featured: false,
+        showCaption: false,
+        session: "fukeung",
+        location: "dolomites",
+        experience: "cadini",
+        services: ["portrait"],
+        people: [],
+        tags: ["dolomites", "cadini", "landscape", "portrait", "friends"]
+    },
+    {
+        id: "cadini-030",
+        src: "https://images.pratyushdadhich.com/fukeung/IMG_7894.jpg",
+        title: "",
+        caption: "",
+        alt: "Cadini",
+        orientation: "portrait",
+        featured: false,
+        showCaption: false,
+        session: "fukeung",
+        location: "dolomites",
+        experience: "cadini",
+        services: ["portrait"],
+        people: [],
+        tags: ["dolomites", "cadini", "landscape", "portrait", "friends"]
+    },
 
 
 ]

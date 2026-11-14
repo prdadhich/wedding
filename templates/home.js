@@ -16,11 +16,12 @@ export default function renderHome({ services, experiences, locations, sessions,
   // Curated landscape images for the hero slideshow (prevents harsh desktop cropping)
   const heroImages = [
     "https://ik.imagekit.io/prdadhich/Images/AlinaMateusz/IMG_6582(3)_nbtwDf7ygU.jpg",
+    "https://images.pratyushdadhich.com/fukeung/IMG_7845.jpg",// fukeung,
+
     "https://ik.imagekit.io/prdadhich/Images/Barbara/IMG_5619_ofCJt64dmL.jpg", // Final Dance (Landscape) - Guaranteed working
     "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_2727-Enhanced-NR_OuQrEiTuP.jpg", // Milan Duomo (Landscape)
     "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_1716_jiPTkzLae.jpg", // Tre Cime Sunrise (Landscape)
-    "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_4765_R7hY2a7YW.jpg",
-    "https://images.pratyushdadhich.com/fukeung/IMG_7845.jpg" // fukeung
+    "https://ik.imagekit.io/prdadhich/Images/Photography/IMG_4765_R7hY2a7YW.jpg"
   ];
 
   return `
